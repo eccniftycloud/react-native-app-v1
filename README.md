@@ -1,7 +1,7 @@
-# React Native Chat Assistant for Android/ IOS
+# React Native AI Chat Assistant for Android/ IOS
 # React Native App v1 
 
-This project is a **Hello World Chat Assistant** built using **React Native** and **Expo**, designed for seamless functionality across **Android**, **iOS**, and **desktop devices**. The app provides a clean, user-friendly interface to interact with a basic chat assistant, leveraging cutting-edge backend technologies for dynamic responses.  
+This project is a **Hello World Chat Assistant** built using **React Native** and **Expo**, designed for seamless functionality across **Android**, **iOS**, and **desktop devices**. The app provides a clean, user-friendly interface to interact with a basic chat assistant, leveraging cutting-edge AWS AI/ML backend technologies for dynamic responses.  
 
 ## Features  
 
